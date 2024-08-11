@@ -13,30 +13,46 @@ I’m a passionate software engineer with a love for game development, based in 
 
 ## My Skill Set 🛠️
 
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### Game Engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ### Web Development
+![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Cloud Services
 ![Unity Cloud Services](https://img.shields.io/badge/Unity_Cloud_Services-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Epic Online Services](https://img.shields.io/badge/Epic_Online_Services-313131?style=for-the-badge&logo=epic-games&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Networking
+![Photon PUN2](https://img.shields.io/badge/Photon_PUN2-027DFD?style=for-the-badge&logo=photon&logoColor=white)
+![Photon Fusion](https://img.shields.io/badge/Photon_Fusion-007DFD?style=for-the-badge&logo=photon&logoColor=white)
+![Netcode for GameObjects](https://img.shields.io/badge/Netcode_For_GameObjects-FFCD00?style=for-the-badge&logo=unity&logoColor=black)
+![Steamworks](https://img.shields.io/badge/Steamworks-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 ### Version Control
 ![GIT](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 
 ### Collaboration & Design
 ![JIRA](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
