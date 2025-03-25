@@ -79,13 +79,14 @@
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=mmo_rpg&theme=monokai)](https://github.com/AlexBuzmion/mmo_rpg)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=expensetrackingapp&theme=monokai)](https://github.com/AlexBuzmion/ExpenseTrackingApp)
 
+## Activity Tracker
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexBuzmion&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
----
+
 
 ## Completed Projects
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=Cario-Game-Custom-GameEngine-&theme=monokai)](https://github.com/AlexBuzmion/Cario-Game-Custom-GameEngine-)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=Custom-GameEngine&theme=monokai)](https://github.com/AlexBuzmion/Custom-GameEngine)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=layoff&theme=monokai)](https://github.com/AlexBuzmion/layoff)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=layoff_webapp&theme=monokai)](https://github.com/AlexBuzmion/layoff_webapp)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=stickdots&theme=monokai)](https://github.com/AlexBuzmion/stickdots)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=Stick-Dots&theme=monokai)](https://github.com/AlexBuzmion/Stick-Dots)
 
 [![@Alex's Holopin board](https://holopin.io/api/user/board?user=alexbuzmion)](https://holopin.io/@alexbuzmion)
