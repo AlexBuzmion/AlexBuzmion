@@ -1,72 +1,91 @@
-# Hi, I'm Alex 👋
+## Hello World 👋
 
-## About Me
+- 👋 I'm Alex，a graduate of ***Vancouver Film School - Programming for Games, Web & Mobile***.
+- 👨‍💻 I'm currently a Software Developer in Public Outreach, responsible for our PHP-based CRM
+- 📚 At work, I'm sharpening my skills in PHP, MySQL, and JavaScript while integrating systems for our users.
+- 👷 Despite current challenges in the game industry, I'm also building an MMO RPG in Unreal and C++ with a touch of AWS. 🤌🏻
+- 👉 [Here](https://alexbuzmion.com) is my personal website. Here is my ['About Me' page](https://alexbuzmion.com/about)
+- 📫 You can also reache me on [LinkedIn](https://www.linkedin.com/in/alexbuzmion)!
+- 🔊 If you think there is a job opportunity I can be good for, please feel free to send an email to [alex.buzmionii@gmail.com](mailto:alex.buzmionii@gmail.com). I will respond with haste after receiving your message!⚡
 
-I’m a passionate software engineer with a love for game development, based in Vancouver, BC. My journey into the world of games began when I created a fun little project for my kids, and it’s been an exciting adventure ever since. I’m all about creating engaging experiences and pushing the boundaries of what games can do.
+## Technologies 💻
+<table>
+  <tr>
+    <th style="text-align:left; padding: 8px;">Category</th>
+    <th style="text-align:left; padding: 8px;">Icons</th>
+  </tr>
+  <tr>
+    <td style="padding: 8px;">Technologies &amp; Languages</td>
+    <td style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" title="C++"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" title="C#"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" title="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" title="PHP"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;">Game Engines</td>
+    <td style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" title="Unity"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" title="Unreal Engine"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;">Web &amp; Mobile Development</td>
+    <td style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" title="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" title="Node.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="48" height="48" title="Vue.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" title="CSS3"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" title="Tailwind CSS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" title="React Native"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;">Backend &amp; Databases</td>
+    <td style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" title="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="48" height="48" title="GraphQL"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width="48" height="48" title="Dynamo DB"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;">Cloud &amp; Services</td>
+    <td style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="48" height="48" title="Firebase"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKu0Btbn-NplWPlmjWqXB9-syqSmksm0ExJg&s" width="48" height="48" title="Amazon Web Services)"/>
+      <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Games/64/Arch_Amazon-GameLift_64@5x.png" width="48" height="48" title="AWS Gamelift)"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="48" height="48" title="AWS Lambda)"/>
+      <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faka3yribbj5abr417hup.png" width="48" height="48" title="AWS Gateway API)"/>       
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;">Version Control</td>
+    <td style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" title="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="48" height="48" title="GitHub"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;">Collaboration &amp; Design</td>
+    <td style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" title="Figma"/>
+    </td>
+  </tr>
+</table>
 
-📍 **Location:** Vancouver, BC, Canada  
-📧 **Email:** [alex.buzmionii@gmail.com](mailto:alex.buzmionii@gmail.com)  
-💼 **LinkedIn:** [Alex Buzmion](https://www.linkedin.com/in/alexbuzmion)  
-🌐 **Portfolio:** [https://alexbuzmion.com](https://www.alexbuzmion.com/)
+## Current Contributions:
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=mmo_rpg&theme=monokai)](https://github.com/AlexBuzmion/mmo_rpg)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=expensetrackingapp&theme=monokai)](https://github.com/AlexBuzmion/ExpenseTrackingApp)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexBuzmion&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
-## My Skill Set 🛠️
+## Completed Projects
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=Cario-Game-Custom-GameEngine-&theme=monokai)](https://github.com/AlexBuzmion/Cario-Game-Custom-GameEngine-)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=layoff&theme=monokai)](https://github.com/AlexBuzmion/layoff)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=layoff_webapp&theme=monokai)](https://github.com/AlexBuzmion/layoff_webapp)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=stickdots&theme=monokai)](https://github.com/AlexBuzmion/stickdots)
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Game Engines
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-
-### Web Development
-![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Pinia](https://img.shields.io/badge/Pinia-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Cloud Services
-![Unity Cloud Services](https://img.shields.io/badge/Unity_Cloud_Services-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Epic Online Services](https://img.shields.io/badge/Epic_Online_Services-313131?style=for-the-badge&logo=epic-games&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Networking
-![Photon PUN2](https://img.shields.io/badge/Photon_PUN2-027DFD?style=for-the-badge&logo=photon&logoColor=white)
-![Photon Fusion](https://img.shields.io/badge/Photon_Fusion-007DFD?style=for-the-badge&logo=photon&logoColor=white)
-![Netcode for GameObjects](https://img.shields.io/badge/Netcode_For_GameObjects-FFCD00?style=for-the-badge&logo=unity&logoColor=black)
-![Steamworks](https://img.shields.io/badge/Steamworks-000000?style=for-the-badge&logo=steam&logoColor=white)
-
-### Version Control
-![GIT](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
-
-### Collaboration & Design
-![JIRA](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
----
-
-## My Journey 🌟
-
-### Latest Project: [Lay-Off](https://github.com/AlexBuzmion/layoff)
-"Lay-Off" is a high-stakes, 4-player online multiplayer game where elite spies compete in a thrilling battle of wits and traps. It’s been an incredible project, showcasing my skills in gameplay programming, network management, and HUD design—all crafted in Unity.
-
-### [Telemetry Web App](https://github.com/AlexBuzmion/layoff_webapp)
-I developed a sophisticated telemetry web application using Vue.js and Node.js, integrated with Unity Cloud Services and Unity API's. This project involved collecting and analyzing player data in real-time to provide actionable insights for gameplay balancing and optimization.
-
-### [Rogue Protocol](https://github.com/AlexBuzmion/rogueprotocol)
-"Rogue Protocol" is another project where I focused on creating a compelling gameplay experience. The project included implementing complex gameplay mechanics and optimizing performance for an engaging and smooth player experience.
-
-### Previous Work
-- **RoboDash:** Developed an endless runner in Unreal Engine, with dynamic path creation and challenging obstacles.
-- **Stick Dots:** Brought a classic game to life, managing the project and leading the team through code reviews and development.
+[![@Alex's Holopin board](https://holopin.io/api/user/board?user=alexbuzmion)](https://holopin.io/@alexbuzmion)
