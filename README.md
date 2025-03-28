@@ -22,13 +22,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" title="Python"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" title="PHP"/>
+      <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="48" height="48" title="Typescript"/>
     </td>
   </tr>
   <tr>
     <td style="padding: 8px;">Game Engines</td>
     <td style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" title="Unity"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" title="Unreal Engine"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" title="Unity"/>
     </td>
   </tr>
   <tr>
@@ -40,6 +41,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" title="CSS3"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" title="Tailwind CSS"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" title="React Native"/>
+      <img src="https://www.cdnlogo.com/logos/e/72/expo-go-app.svg" width="48" height="48" title="Expo Go"/>
     </td>
   </tr>
   <tr>
@@ -48,6 +50,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" title="MySQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="48" height="48" title="GraphQL"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width="48" height="48" title="Dynamo DB"/>
+      <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" width="48" height="48" title="PostgreSQL"/>
+      <img src="https://avatars.githubusercontent.com/u/6453780?s=280&v=4" width="48" height="48" title="Snowflake"/>
     </td>
   </tr>
   <tr>
@@ -57,7 +61,8 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKu0Btbn-NplWPlmjWqXB9-syqSmksm0ExJg&s" width="48" height="48" title="Amazon Web Services)"/>
       <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Games/64/Arch_Amazon-GameLift_64@5x.png" width="48" height="48" title="AWS Gamelift)"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="48" height="48" title="AWS Lambda)"/>
-      <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faka3yribbj5abr417hup.png" width="48" height="48" title="AWS Gateway API)"/>       
+      <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faka3yribbj5abr417hup.png" width="48" height="48" title="AWS Gateway API)"/> 
+      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*3Qv7hpvX8cyjzHjumzetLw.png" width="48" height="48" title="AWS Cognito)"/>
     </td>
   </tr>
   <tr>
@@ -78,9 +83,6 @@
 ## Current Contributions:
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=mmo_rpg&theme=monokai)](https://github.com/AlexBuzmion/mmo_rpg)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alexbuzmion&repo=expensetrackingapp&theme=monokai)](https://github.com/AlexBuzmion/ExpenseTrackingApp)
-
-## Activity Tracker
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexBuzmion&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ## Completed Projects
